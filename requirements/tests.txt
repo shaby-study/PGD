@@ -10,4 +10,4 @@ onnxruntime==1.5.1
 pytest
 ubelt
 xdoctest>=0.10.0
-yapf
+yapf==0.40.1
